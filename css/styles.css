@@ -18,6 +18,9 @@ header{border-style: none none solid none;}
 ol > li {padding:5px; background-color: grey;}
 li:nth-child(2n+1){background-color: green;}
 
+/*below using relational selector that will exclude other links in the document from turning background yellow upon hover and background red upon active*/
 li > a:hover {background-color: yellow ;}
 li > a:active {background-color: red;}
+
+/*using title attribute turn off underline when hovering this particular link*/
 a[title="CodeDev"]:hover {text-decoration: none;}
