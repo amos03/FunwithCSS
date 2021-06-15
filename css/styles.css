@@ -4,3 +4,4 @@ h2 {font-family: Tahoma, Verdana, Geneva;}
 header{border-style: none none solid none;}
 
 .class-list {list-style-type: square}
+.item {border-style: dotted dotted dotted dotted;}
