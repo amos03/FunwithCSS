@@ -16,6 +16,8 @@ header{border-style: none none solid none;}
 
 /*ADVANCED SELECTORS*/
 ol > li {padding:5px; background-color: grey;}
+li:nth-child(2n+1){background-color: green;}
+
 li a:hover {background-color: yellow ;}
 li a:active {background-color: red;}
-li:nth-child(2n+1){background-color: green;}
+a[title="CodeDev"]:hover {text-decoration: none;}
