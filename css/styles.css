@@ -16,3 +16,5 @@ header{border-style: none none solid none;}
 
 /*ADVANCED SELECTORS*/
 ol > li {padding:5px; background-color: grey;}
+li a:hover {background-color: yellow ;}
+li a:active {background-color: red;}
