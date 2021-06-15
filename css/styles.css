@@ -6,3 +6,4 @@ header{border-style: none none solid none;}
 .class-list {list-style-type: square}
 .item {border-style: dotted dotted dotted dotted;}
 .even {background-color: grey;}
+.odd {background-color: black; color: white;}
